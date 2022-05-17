@@ -1,7 +1,7 @@
 
  ### Olá Eu sou o Diego Santos👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diego-dos-santos-silva-4b4b56233)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-dos-santos-silva-4b4b56233/)
 
 
 ![Diego2k22 GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego2k22&show_icons=true&theme=dracula)
